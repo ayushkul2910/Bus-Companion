@@ -11,6 +11,31 @@ enable a user to book and pay for journey; access the media content (movies, TV
 shows, etc.) provided by the portal inside bus or metro; get the details of journey
 (location, next stop, time and distance remaining, etc.).
 
+
+HARDWARE REQUIREMENTS
+
+
+● 64 - bit Architecture 
+
+● Rfid Tag and reader 
+
+● Arduino 
+
+
+SOFTWARE REQUIREMENTS
+
+
+● Operating System (Windows-7,8,10, MacOS, Linux) 
+
+● Django (on the server) 
+
+● Python 
+
+● Web browser 
+
+
+
+
 PROPOSED ARCHITECTURE
 
 E-Bus Companion is a web application for simplifying local travel through public transport,
